@@ -1,6 +1,6 @@
 # Elign
 
-Align the string with east asian character set.
+Align the string with east asian character set in golang.
 
 
 
