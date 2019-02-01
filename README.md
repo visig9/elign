@@ -38,7 +38,7 @@ Please check `godoc` for more information.
 ## Download
 
 ```bash
-go get gitlab.com/visig/elign
+go get github.com/visig9/elign
 ```
 
 
