@@ -1,5 +1,7 @@
 # Elign
 
+[![Build Status](https://travis-ci.org/visig9/elign.svg?branch=master)](https://travis-ci.org/visig9/elign)
+
 Align the string with east asian character set in golang.
 
 
